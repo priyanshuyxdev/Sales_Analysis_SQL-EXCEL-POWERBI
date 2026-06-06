@@ -1,9 +1,10 @@
 # AdventureWorks Internet Sales Performance Dashboard
 
 ## 📌 Project Overview
-<img width="1270" height="693" alt="Data_model" src="https://github.com/user-attachments/assets/7c2dca9a-9f19-4e07-80d0-64b35069c1ad" />
+
 <img width="1287" height="723" alt="Customer_details" src="https://github.com/user-attachments/assets/3df0af81-4477-4baf-bfe0-12aa133052a7" />
 <img width="1290" height="723" alt="Sales_overview" src="https://github.com/user-attachments/assets/f80eec5d-38d6-469e-903e-abbdc1aeaaa9" />
+<img width="1270" height="693" alt="Data_model" src="https://github.com/user-attachments/assets/7c2dca9a-9f19-4e07-80d0-64b35069c1ad" />
 
 An end-to-end Business Intelligence project built using SQL Server, Excel, and Power BI to analyze internet sales performance, customer behavior, product performance, and budget attainment.
 
